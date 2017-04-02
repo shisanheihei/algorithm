@@ -11,7 +11,7 @@ import java.util.*;
 
 public class randonNum {
 	public static void main(String[] args){
-		@SuppressWarnings("resource")
+
 		Scanner scanner=new Scanner(System.in);
 		int num= scanner.nextInt();
 		//treeSet 本身就可以排序
